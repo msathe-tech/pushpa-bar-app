@@ -1,4 +1,4 @@
-# foo-app
+# bar-app
 
 Simple web apps with Spring Boot for business logic.
 
