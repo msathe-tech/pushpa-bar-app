@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @Configuration
-@PropertySource("classpath:foo.properties")
+@PropertySource("classpath:bar.properties")
 public class ColorController {
     
     HashMap<String, String> map = new HashMap<>();
